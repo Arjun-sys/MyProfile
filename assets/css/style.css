@@ -73,17 +73,16 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #200C1F;
   overflow-y: auto;
 }
 
 #header .profile img {
-  margin: 15px auto;
-  display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
+    margin: 35px auto;
+    display: block;
+    width: 190px;
+    border: 1px solid #2c2f3f;
 }
-
 #header .profile h1 {
   font-size: 24px;
   margin: 0;
@@ -236,9 +235,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 64px;
+  font-size: 70px;
   font-weight: 700;
-  line-height: 56px;
+  line-height: 130px;
   color: #fff;
 }
 
@@ -246,15 +245,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   margin-bottom: 50px;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
-#hero p span {
-  color: #fff;
-  padding-bottom: 4px;
-  letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
-}
 
 @media (min-width: 1024px) {
   #hero {
@@ -1051,7 +1044,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
+  background: #200C1F;
 }
 
 #footer .copyright {
